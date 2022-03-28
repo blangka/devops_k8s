@@ -22,6 +22,7 @@ server:
       - url: https://github.com/blangka/devops_k8s.git
 
     accounts.alice: apiKey, login
+    accounts.lim: apiKey
 
     dex.config: |
       connectors:
