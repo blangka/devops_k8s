@@ -1,0 +1,9 @@
+replicaCount: 1
+
+region: ap-northeast-2
+clusterName: lch-cluster
+
+ingressClass: alb
+
+enableWaf: false
+enableWafv2: false
